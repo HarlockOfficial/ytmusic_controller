@@ -1,2 +1,2 @@
-# ytmusic_controller
-Control youtube music using a telegram bot
+# YouTube Music Controller
+Control YouTube Music using a telegram bot
